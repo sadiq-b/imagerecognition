@@ -16,18 +16,5 @@ Write Lambda function to in Rekognition on your image in S3 Bucket
 About
 lambda function that uses aws S3 and aws rekognition algorithm
 
-Resources
- Readme
-Releases
-No releases published
-Packages
-No packages published
-Contributors 2
-@cait-c
-cait-c Caitlin Ciaramella
-@c-cait
-c-cait Caitlin Ciaramella
-Languages
-Python
-100.0%
+
 © 2021 GitHub, Inc.
